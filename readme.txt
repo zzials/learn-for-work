@@ -1,2 +1,2 @@
-here is a file for git.
+here is b file for git.
 first add.
